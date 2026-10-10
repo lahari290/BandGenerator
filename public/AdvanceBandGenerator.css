@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: darkgoldenrod;
+    height:100%;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    gap: 50px;
+    margin:0;
+    justify-content: space-between;
+    text-align: center;
+   
+}
+
+.generatorbody{
+
+flex:4;
+align-content: center;
+
+}
+h1{
+font-size: 100px;
+}
+
+.footer{
+flex:1;
+}
+
+button{
+    height: 60px;
+    width:200px;
+    font-size:22px
+}
+
+.thisfooter{
+    height:100px;
+    align-content: center;
+    
+}
